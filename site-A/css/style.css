@@ -1,0 +1,1145 @@
+body{
+	margin: 0px -15px;
+}
+
+header{
+	background-image: url(../img/image-header-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center ;
+	height: 967px;
+}
+
+header div.menu{
+ height:136px;
+ background: rgba(0, 0, 0, 0.4);
+}
+
+header div.menu a img[src="img/Logo.png"]{
+	display: block;
+	padding-left: 100px;
+	padding-top: 50px;
+}
+
+header nav ul{
+	list-style-type: none;
+	padding-right: 50px;
+}
+
+header nav ul li{
+	display: inline-block;
+	float:left;
+	margin-right: 50px;
+	padding-top: 53px;
+}
+
+header div.menu a.search{
+    display: block;
+    float:right;	
+}
+
+header nav ul li a{
+	text-decoration: none;
+	font-size: 18px;
+	color: #fff;
+	font-family:"Montserrat", sans-serif;
+}
+
+header nav ul li a:hover{
+	color: #39b9ef;
+	text-decoration: underline;
+}
+
+header div.call-to h1{
+	margin-top:250px;
+	margin-bottom: 0px;
+	text-align:center;
+	color: #fff;
+	font-size: 72px;
+	font-weight: bold;
+	font-family:"Montserrat", sans-serif;
+}
+
+header div.call-to h1 span{
+	color: #2ebaee;
+	font-family:"Montserrat", sans-serif;
+}
+
+header div.call-to p{
+	text-align: center;
+	color: #fff;
+	font-size: 24px;
+	font-family: "Montserrat", sans-serif;
+	margin-top: 20px;
+}
+
+header div.call-to a{
+	display: block;
+	width: 215px;
+	height: 50px;
+	background: #2ebaee;
+	color: #fff;
+	border-radius: 24px;
+	text-align: center;
+	margin:0 auto;
+	line-height: 50px;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: "Montserrat", sans-serif;
+}
+
+/***********************************************
+ **************CSS-2****************************
+ ***********************************************/
+
+h2.Logo-2{
+	text-align: center;
+	margin-top: 70px;
+	padding-bottom: 79px;
+	font-family: "Montserrat", sans-serif;
+	font-size: 48px;
+	border-bottom: 1px solid #e7e7e7;
+}
+
+div.I-1 h3{
+	font-family: "Montserrat", sans-serif;
+	font-size: 24px;
+	font-weight: unset;
+}
+
+div.I-1 p{
+	font-family: "Montserrat", sans-serif;
+	font-size:14px;
+	color: #919191;
+}
+
+div.I-1{
+	padding-top:20px;
+}
+
+div.I-1 img{
+	padding-bottom:23px;
+}
+
+div.buttom{
+	margin-top: 65px;
+	text-align: center;
+	padding-bottom: 254px;
+}
+
+div.buttom a{
+  font-family: "Montserrat", sans-serif;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+	background: #2ebaee;
+	border-radius: 40px;
+	height: 44px;
+	width: 151px;
+	display: inline-block;
+	line-height: 44px;
+}
+
+div.I-2 h3{
+  font-family: "Montserrat", sans-serif;
+  font-size: 36px;
+  color: #242424;
+  padding-bottom: 12px;
+}
+
+div.I-2 p{
+	font-family: "Montserrat", sans-serif;
+	color: #919191;
+	font-size: 14px;
+}
+
+div.buttom-2{
+	margin-top:28px;
+	padding-top: 22px;
+}
+
+div.buttom-2 a{
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	display: inline-block;
+	width: 152px;
+	height: 44px;
+	background: #2ebaee;
+	color: #fff;
+	border-radius: 40px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 44px;
+
+}
+
+div.I-3 {
+    padding-left: 100px;
+}
+
+div.back-services{
+	 background-image: url(../img/image-section-2.jpg);
+	 background-repeat: no-repeat;
+}
+
+div.I-3 h3{
+  font-family: "Montserrat", sans-serif;
+  font-size: 36px;
+  color: #fff;
+  padding-bottom: 12px;
+}
+
+div.I-3 p{
+	font-family: "Montserrat", sans-serif;
+	color: #fff;
+	font-size: 14px;
+}
+
+div.buttom-3 a{
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	display: inline-block;
+	width: 152px;
+	height: 44px;
+	background: #fff;
+	color: #2ebaee;
+	border-radius: 40px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 44px;
+
+}
+
+div.buttom-3{
+   margin-top: 42px;
+}
+
+div.prest{
+	padding-top: 145px;
+	padding-bottom: 140px;
+}
+/**************************************************
+ **************CSS-3*******************************
+ **************************************************/
+section.man{
+	height: 625px;
+}
+
+section.man img{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+section.man h3{
+	font-family: "Montserrat", sans-serif;
+	font-size: 72px;
+	color: #000;
+	max-width: 550px;
+}
+
+section.man p{
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+	color: #878787;
+	max-width: 550px;
+
+}
+
+div.buttom-4 a{
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	display: inline-block;
+	width: 152px;
+	height: 44px;
+	background: #2ebaee;
+	color: #fff;
+	border-radius: 40px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 44px;
+}
+
+div.buttom-4{
+	padding-top: 70px;
+	padding-bottom: 81px;
+
+}
+ 
+div.parag-3{
+	padding-left:76px;
+
+}
+
+/**************************************************
+ **************CSS-4*******************************
+ **************************************************/
+
+section.box{
+  height: 430px;
+
+}
+
+section.box div.block-1{
+	background-image: url(../img/box-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	min-height: 430px;
+}
+
+section.box div.block-1 h4{
+	font-family: "Montserrat", sans-serif;
+	font-size: 46px;
+	font-weight: bold;
+	color: #fff;
+	height: 100%;
+	width: 100%;
+	background: rgba(0, 0, 0, 0.7);
+	margin:0;
+	padding: 140px 65px 65px;
+}
+
+section.box div.block-2{
+	background-image: url(../img/box-2.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	min-height: 430px;
+}
+
+section.box div.block-2 h4{
+	font-family: "Montserrat", sans-serif;
+	font-size: 46px;
+	font-weight: bold;
+	color: #fff;
+	height: 100%;
+	width: 100%;
+	background: rgba(0, 0, 0, 0.7);
+	margin:0;
+	padding: 140px 65px 65px;
+}
+
+section.box div.block-3{
+	background-image: url(../img/box-3.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	min-height: 430px;
+}
+
+section.box div.block-3 h4{
+	font-family: "Montserrat", sans-serif;
+	font-size: 46px;
+	font-weight: bold;
+	color: #fff;
+	height: 100%;
+	width: 100%;
+	background: rgba(0, 0, 0, 0.7);
+	margin:0;
+	padding: 140px 65px 65px;
+}
+
+section.box div.block-4{
+	background-image: url(../img/box-4.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	min-height: 430px;
+}
+
+section.box div.block-4 h4{
+	font-family: "Montserrat", sans-serif;
+	font-size: 46px;
+	font-weight: bold;
+	color: #fff;
+	height: 100%;
+	width: 100%;
+	background: rgba(0, 0, 0, 0.7);
+	margin:0;
+	padding: 140px 65px 65px;
+}
+
+section.box div h4:hover{
+   background: rgba(46, 186, 238, 0.7);
+}
+
+/**************************************************
+ **************CSS-5*******************************
+ **************************************************/
+
+section.person{
+}
+
+section.person h3.Logo-3{
+	font-family: "Montserrat", sans-serif;
+	font-size: 72px;
+	font-weight: bold;
+	color: #242424;
+	padding-bottom: 23px;
+}
+
+section.person h3.Logo-3 span{
+  color: #2ebaee;
+}
+
+
+
+section.person h4{
+	font-family: "Montserrat", sans-serif;
+	font-size: 36px;
+	color: #242424;
+	margin: 0 auto;
+	font-weight: unset;
+	padding-left: 70px;
+}
+
+section.person p{
+	font-size: 14px;
+	color: #919191;
+	padding-left: 120px;
+	padding-bottom: 8px;
+}
+
+div.buttom-5 a{
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	display: inline-block;
+	width: 152px;
+	height: 44px;
+	background: #2ebaee;
+	color: #fff;
+	border-radius: 40px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 44px;
+}
+div.buttom-5{
+	padding-left: 90px;
+}
+
+section.person{
+	padding-top: 6px;
+	padding-bottom: 111px;
+}
+
+section.person img{
+	margin: 0 auto;
+	display: block;
+}
+
+section.person img{
+	padding-bottom: 28px;
+}
+
+
+/**************************************************
+ **************Footer*******************************
+ **************************************************/
+
+section.footer{
+	height: 724px;
+	background-image: url(../img/f-e.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+section.footer h4{
+	font-family: "Montserrat", sans-serif;
+	font-size: 72px;
+	font-weight: bold;
+	color: #fff;
+	margin-bottom: 0px;
+}
+
+section.footer #Map{
+	margin-top: 31px;
+	font-family: "Montserrat", sans-serif;
+	font-size: 18px;
+	color: #878787;
+
+}
+
+section.footer p{
+	font-family: "Montserrat", sans-serif;
+	font-size: 30px;
+	color: #878787;
+}
+
+section.footer p span{
+	color: #2ebaee;
+}
+
+section.footer ul li{
+	display: inline-block;
+	list-style-type: none;
+	padding-left: 32px;
+}
+
+section.footer ul{
+	margin-left:-70px;
+}
+
+section.footer form input{
+	display: block;
+	width: 640px;
+	height: 62px;
+	background: none;
+	border: 2px solid #535353;
+	border-radius: 10px;
+	margin-bottom: 24px;
+	font-size: 18px;
+	color:#fff;
+	font-family: "Montserrat", sans-serif;
+}
+
+section.footer form input::placeholder{
+	padding-left: 7px;
+	font-size: 14px;
+	font-family: "Montserrat", sans-serif;
+}
+
+section.footer form{
+	padding-top: 135px;
+}
+
+section.footer form textarea{
+	width: 637px;
+	height:203px;
+	resize: none;
+	background: none;
+	border: 2px solid #535353;
+	border-radius: 10px;
+	font-family: "Montserrat", sans-serif;
+	font-size: 18px;
+	color: #fff;
+}
+
+section.footer form textarea::placeholder{
+	padding-top: 16px;
+	padding-left: 17px;
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+}
+
+section.footer button{
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	display: block;
+	width: 152px;
+	height: 44px;
+	background: #2ebaee;
+	color: #fff;
+	border-radius: 40px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 35px;
+	border: 1px solid #2ebaee;
+}
+
+section.footer div.bat{
+ display: inline-block;
+ padding-left: 250px;
+ padding-top: 24px;
+}
+
+footer{
+	background: #000;
+}
+
+footer ul li{
+  display: inline-block;
+  list-style-type: none;
+}
+
+footer ul li p{
+	padding: 0px 10px;
+	font-family: "Montserrat", sans-serif;
+	font-weight: bold;
+	font-size: 	14px;
+	color: #b2b2b2;
+}
+
+footer div.un p{
+	font-family: "Montserrat", sans-serif;
+	font-weight: bold;
+	font-size: 	14px;
+	color: #b2b2b2;
+	text-align: center;
+}
+
+footer div.un{
+	padding-top: 22px;
+}
+
+/**************************************************
+ **************Adaptability*******************************
+ **************************************************/
+
+.img-adap{
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+@media (min-width: 500.98px) and (max-width: 768.98px){
+
+	header div.menu a img[src="img/Logo.png"]{
+		padding-left: 150px;
+	}
+
+	header div.call-to h1{
+		font-size: 30px;
+		margin-top: 30px;
+	}
+
+	header div.call-to p{
+		font-size: 12px;
+	}
+	header div.call-to a{
+		width: 100px;
+		height: 30px;
+		font-size: 12px;
+		line-height: 30px;
+	}
+	header{
+		height: 400px;
+	}
+
+	h2.Logo-2{
+		font-size: 30px;
+		margin-top: 6px;
+		padding-bottom: 29px;
+	}
+   	div.I-1 img{
+   		display: block;
+   		margin: 0 auto;
+   	}
+
+   	div.I-1 h3{
+   		font-size: 18px;
+   		text-align: center;
+   	}
+
+   	div.I-1 p{
+   		font-size: 12px;
+   		text-align: center;
+   	}
+
+   	div.buttom{
+   		padding-bottom: 300px;
+   	}
+
+   	div.I-2 h3{
+   		font-size: 30px;
+   		text-align: center;
+   	}
+
+   	div.I-2 p{
+   		font-size: 12px;
+   		text-align: center;
+   	}
+
+   	div.buttom-2 a{
+   		width: 100px;
+		height: 30px;
+		font-size: 12px;
+		line-height: 30px;
+   	}
+
+   	div.buttom-2{
+   		text-align: center;
+   		padding-top: 20px;
+   		margin-top: 0;
+   	}
+
+   	div.I-3 h3{
+   		font-size: 20px;
+   		text-align: center;
+   	}
+
+   	div.I-3 p{
+   		font-size: 12px;
+   		text-align: center;
+   	}
+
+   	div.I-3{
+   		padding-left: 0px;
+   	}
+
+   	div.buttom-3 a{
+   		width: 100px;
+		height: 30px;
+		font-size: 12px;
+		line-height: 30px;
+   	}
+
+   	div.buttom-3{
+   		text-align: center;
+   	}
+
+   	div.prest{
+   		padding-bottom: 40px;
+   	}
+
+   	section.man h3{
+   		font-size: 20px;
+   		text-align: center;
+   	}
+
+   	section.man p{
+   		font-size: 12px;
+   		text-align: center;
+   	}
+
+   	div.buttom-4 a{
+   		width: 100px;
+		height: 30px;
+		font-size: 12px;
+		line-height: 30px;
+   	}
+
+   	div.buttom-4{
+   		padding: 0px;
+   		text-align: center;
+   	}
+
+   	section.man{
+   		height: 325px;
+   	}
+
+   	section.man img{
+   		margin-top: 80px;
+   	}
+
+   	section.box div.block-1 h4{
+   		font-size: 18px;
+   		text-align: center;
+   	}
+
+   	section.box div.block-2 h4{
+   		font-size: 18px;
+   		text-align: center;
+   	}
+
+   	section.box div.block-3 h4{
+   		font-size: 18px;
+   		text-align: center;
+   	}
+
+   	section.box div.block-4 h4{
+   		font-size: 18px;
+   		text-align: center;
+   	}
+
+   	section.person img{
+   		padding-top: 50px;
+   		width: 200px;
+   		height: 240px;
+   	}
+
+   	section.person h4{
+   		font-size: 22px;
+   	}
+    section.person{
+    	margin-top: 450px;
+    }
+
+    section.person h3.Logo-3{
+    	font-size: 48px;
+    	text-align: center;
+    }
+
+    div.buttom-5{
+    	padding-left: 30%;
+    }
+
+    section.person p{
+    	padding-left: 45%;
+    }
+
+    section.footer h4{
+    	font-size: 32px;
+    	text-align: center;
+    }
+
+    section.footer #Map{
+    	font-size: 12px;
+    	text-align: center;
+    	margin-top: 0px;
+    }
+
+    section.footer p{
+    	font-size: 14px;
+    	text-align: center;
+    }
+
+    section.footer ul{
+    	padding-left: 17%;
+    }
+
+    section.footer form{
+    	padding-top: 50px;
+    }
+
+    section.footer form input{
+    	height: 39px;
+    	width: 470px;
+
+    }
+
+    section.footer form textarea{
+    	height: 139px;
+    	width: 470px;
+    }
+
+    section.footer div.bat{
+    	padding-left: 33%;
+    }
+
+    footer ul li p{
+    	font-size: 13px;
+    }
+}
+
+@media (min-width: 768.98px) and (max-width: 991.98px) {
+
+header div.call-to h1{
+	font-size: 36px;
+	margin-top: 50px;
+}
+
+header{
+	height: 500px;
+}
+
+header div.call-to a{
+	margin-top:50px;
+}
+
+div.buttom{
+	padding-bottom: 150px;
+}
+
+div.I-1 img{
+	display: block;
+	margin: 0 auto;
+}
+
+div.I-1 h3{
+	text-align: center;
+}
+
+div.I-1 p{
+	text-align: center;
+}
+
+div.I-2 h3{
+	text-align: center;
+	font-size: 20px;
+}
+
+div.I-2 p{
+	text-align: center;
+}
+
+div.buttom-2{
+  text-align: center;
+}
+
+div.I-3 h3{
+	font-size: 20px;
+	text-align: center;
+}
+
+div.I-3 p{
+	text-align: center;
+}
+
+div.buttom-3{
+	text-align: center;
+}
+div.I-3{
+	padding-left: 0px;
+}
+
+section.man h3{
+	font-size: 36px;
+}
+
+div.buttom-4{
+ 	text-align: center;
+}
+
+section.man{
+	height: 450px;
+}
+
+section.man img{
+	margin-top: 100px;
+}
+
+section.box div.block-1 h4{
+	font-size: 36px;
+	text-align: center;
+}
+
+section.box div.block-2 h4{
+	font-size: 36px;
+	text-align: center;
+}
+
+section.box div.block-3 h4{
+	font-size: 36px;
+	text-align: center;
+}
+
+section.box div.block-4 h4{
+	font-size: 36px;
+	text-align: center;
+}
+
+section.box{
+	margin-bottom: 400px;
+}
+
+section.person h3.Logo-3{
+	font-size: 50px;
+	text-align: center;
+}
+
+section.person h4{
+	font-size: 34px;
+}
+
+div.person-3,div.person-4{
+	padding-top: 76px;
+}
+
+section.footer h4{
+	font-size: 40px;
+	text-align: center;
+}
+
+section.footer #Map{
+	font-size: 14px;
+	text-align: center;
+}
+
+section.footer p{
+	font-size: 14px;
+	text-align: center;
+}
+
+section.footer ul{
+	margin: 0 0 0 17%;
+	padding-bottom: 5px;
+}
+
+section.footer ul li.twit{
+	padding-left: 10px;
+}
+section.footer{
+	height: 724px;
+}
+
+section.footer form{
+	padding-top: 0px;
+	padding-left:131px ;
+}
+
+section.footer form textarea{
+	height:154px;
+	width: 528px;
+}
+
+section.footer form input{
+	width: 528px;
+}
+
+footer ul li p{
+	font-size: 10px;
+}
+footer div.un p{
+	font-size: 10px;
+}
+
+header div.menu{
+	padding-left: 200px;
+}
+
+}
+
+@media (min-width: 991.98px) and (max-width: 1199.98px){
+
+  div.I-1 p{
+  	padding-right:20px;
+  	text-align: center;
+  }
+
+  div.I-1 h3{
+  	padding-right: 10px;
+  	text-align: center;
+  }
+
+  div.I-1 img{
+  	display: block;
+  	margin: 0 auto;
+  }
+
+  div.I-2 h3{
+  	margin-top: 100px;
+  	text-align: center;
+  }
+    img.pc{
+    	margin-top: 100px;
+    }
+
+    section.man h3{
+    	font-size: 36px;
+    	text-align: center;
+    }
+
+    div.buttom-4{
+    	padding: 0;
+    	text-align: center;
+    }
+
+    section.man{
+    	height: auto;
+    }
+
+    section.man p{
+    	text-align: center;
+    }
+
+    div.I-3 h3{
+    	text-align: center;
+    }
+    div.buttom-3 {
+      text-align: center;
+    }
+
+    div.buttom-2{
+    	text-align: center;
+    }
+
+    section.box div.block-1 h4{
+    	font-size: 22px;
+    	text-align: center;
+    }
+
+    section.box div.block-2 h4{
+    	font-size: 22px;
+    	text-align: center;
+    }
+
+    section.box div.block-3 h4{
+    	font-size: 22px;
+    	text-align: center;
+    }
+
+    section.box div.block-4 h4{
+    	font-size: 22px;
+    	text-align: center;
+    }
+
+    div.prest{
+    	padding-bottom: 40px;
+    }
+
+    section.person h3.Logo-3{
+    	text-align: center;
+    }
+
+    section.person img{
+    	height: 200px;
+    	width: 200px;
+    }
+
+    section.person h4{
+    	font-size: 20px;
+    }
+
+    section.person p{
+    	padding-left: 80px;
+    }
+
+    div.buttom-5{
+    	padding-left: 50px;
+    }
+
+    section.footer form input{
+    	width: 470px;
+    }
+
+    section.footer form textarea{
+    	width: 470px;
+    }
+
+    section.footer div.bat{
+    	padding-left: 150px;
+    }
+}
+
+@media (min-width: 1200.98px) and (max-width: 1409.98px){
+ div.I-1 p{
+ 	padding-right: 20px;
+ }
+
+
+ section.footer form input, section.footer form textarea{
+ 	width: 590px;
+ }
+
+ img [src="img/man.jpg"]{
+ 	margin-top: 200px;
+ }
+
+ section.man img{
+ 	padding-top: 233px;
+ }
+
+ section.man div.parag-3{
+ 	padding-top: 90px;
+ }
+
+ div.prest{
+ 	padding-bottom: 150px;
+ }
+
+section.person h4{
+	font-size: 29px;
+}
+
+section.footer h4{
+	font-size: 70px;
+}
+
+section.person h3.Logo-3{
+	text-align: center;
+}
+
+section.box div.block-1 h4{
+	font-size: 36px;
+}
+
+section.box div.block-2 h4{
+	font-size: 36px;
+}
+
+section.box div.block-3 h4{
+	font-size: 36px;
+}
+
+section.box div.block-4 h4{
+	font-size: 36px;
+}
+
+section.man h3{
+	font-size: 68px;
+	text-align: center;
+}
+
+}
